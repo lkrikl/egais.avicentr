@@ -9,7 +9,7 @@ $this->registerMetaTag([
 ]);
 $this->registerMetaTag([
     'name' => 'keywords',
-    'content' => 'ЕГАИС'
+    'content' => 'ЕГАИС, ЕГАИС АВИ ЦЕНТР'
 ]);
 
 ?>
